@@ -3,7 +3,7 @@
 To build & run:
 
     npm install
-    build
+    gulp
     npm start
 
 Look at src/index.ts to see how to start an express server, along with a few
